@@ -1,2 +1,4 @@
-1.......................................
-ffffffffffffffffffffffffff
+baris 1 - ada
+baris 2 - paya
+baris 3 - mobil
+baris 4 - kuda
