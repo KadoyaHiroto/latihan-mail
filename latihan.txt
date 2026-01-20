@@ -2,3 +2,4 @@ baris 1 - ada
 baris 2 - paya
 baris 3 - mobil
 baris 4 - kuda
+baris 5 - ini tambahan
